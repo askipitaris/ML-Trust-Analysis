@@ -1,0 +1,87 @@
+Participant ID,Proctor,Condition,Trust Q_1,Trust Q_2,Trust Q_3,Trust Q_4,Trust Q_5,Trust Q_6,Trust Q_7,Trust Q_8,Overall Trust,Simple Trust,Age,Gender,ML Experience?
+PID001,Team,95% accuracy,5,4,4,3,4,5,3,2,30,4,19,Male,No
+PID002,Team,50% accuracy,4,2,1,1,4,4,3,1,20,4,20,Male,No
+PID003,Team,50% accuracy,4,4,1,2,3,2,2,4,22,4,19,Female,No
+PID004,Team,95% accuracy,4,5,3,4,5,4,2,2,29,4,19,Female,Yes
+PID005,Team,95% accuracy,2,5,1,2,4,3,3,3,23,2,21,Female,Yes
+PID006,Team,95% accuracy,5,5,2,1,4,5,1,1,24,3,22,Male,No
+PID007,Team,95% accuracy,4,4,2,4,3,3,2,3,25,4,20,Female,No
+PID008,Team,75% accuracy,4,4,2,5,5,1,2,5,28,4,19,Male,No
+PID009,Team,75% accuracy,5,4,3,4,3,2,3,3,27,4,20,Female,No
+PID010,Team,75% accuracy,2,4,1,2,4,2,1,2,18,3,22,Male,Yes
+PID011,Team,75% accuracy,5,5,4,4,5,2,2,4,31,4,20,Female,No
+PID012,Team,75% accuracy,4,4,4,4,3,5,2,4,30,4,18,Female,Yes
+PID013,Team,50% accuracy,1,2,1,2,4,5,2,1,18,1,21,Female,Yes
+PID014,Team,50% accuracy,4,3,1,2,5,4,4,3,26,2,20,Male,No
+PID015,Team,50% accuracy,5,4,4,4,3,2,1,2,25,4,22,Male,No
+PID016,CS3540,95% accuracy,4,5,4,4,5,1,2,3,28,4,22,Male,No
+PID017,CS3540,95% accuracy,5,5,4,4,4,3,2,3,30,4,19,Non-binary / third gender,No
+PID018,CS3540,95% accuracy,2,4,3,2,4,5,1,1,22,4,20,Male,Yes
+PID019,CS3540,95% accuracy,5,3,2,3,4,3,3,2,25,3,20,Prefer not to say,No
+PID020,CS3540,95% accuracy,4,4,4,3,4,2,2,3,26,4,20,Male,No
+PID021,CS3540,95% accuracy,2,1,1,1,3,4,1,3,16,2,22,Male,No
+PID022,CS3540,95% accuracy,5,5,5,3,5,3,3,3,32,5,20,Male,No
+PID023,CS3540,95% accuracy,4,3,3,1,3,5,1,2,22,2,22,Female,No
+PID024,CS3540,95% accuracy,4,4,2,4,3,3,2,2,24,4,20,Male,No
+PID025,CS3540,95% accuracy,5,5,5,5,5,2,3,4,34,5,20,Male,No
+PID026,CS3540,95% accuracy,5,5,4,4,3,2,3,3,29,4,20,Female,No
+PID027,CS3540,95% accuracy,4,4,1,1,2,4,2,1,19,1,19,Female,No
+PID028,CS3540,75% accuracy,5,4,3,4,5,2,4,2,29,4,20,Male,Yes
+PID029,CS3540,75% accuracy,4,4,3,2,4,4,2,2,25,2,20,Female,No
+PID030,CS3540,75% accuracy,5,4,5,4,4,3,3,4,32,4,22,Female,No
+PID031,CS3540,75% accuracy,4,3,2,2,3,3,4,3,24,3,22,Prefer not to say,No
+PID032,CS3540,75% accuracy,4,4,2,2,4,4,2,2,24,2,22,Female,No
+PID033,CS3540,75% accuracy,5,5,4,4,4,3,2,1,28,4,22,Prefer not to say,No
+PID034,CS3540,75% accuracy,4,4,3,3,4,2,3,3,26,3,21,Male,No
+PID035,CS3540,75% accuracy,5,5,5,4,5,5,5,4,38,5,19,Male,No
+PID036,CS3540,50% accuracy,1,1,1,1,3,5,1,1,14,1,23,Male,No
+PID037,CS3540,50% accuracy,4,3,2,5,4,3,5,3,29,3,22,Male,Yes
+PID038,CS3540,50% accuracy,4,4,4,4,4,1,2,3,26,4,21,Male,No
+PID039,CS3540,50% accuracy,4,3,2,2,5,4,4,4,28,4,20,Male,No
+PID040,CS3540,50% accuracy,4,5,3,2,2,3,1,2,22,3,23,Male,Yes
+PID041,CS3540,50% accuracy,4,4,4,4,4,4,4,4,32,3,22,Male,No
+PID042,CS3540,50% accuracy,4,3,2,3,2,2,1,2,19,4,20,Male,No
+PID043,CS3540,50% accuracy,1,2,1,1,4,5,1,2,17,1,20,Male,No
+PID044,CS3540,50% accuracy,4,4,3,3,4,4,4,3,29,4,21,Male,No
+PID045,CS3540,50% accuracy,4,2,2,4,3,4,4,3,26,4,21,Male,No
+PID046,CS3540,75% accuracy,5,5,4,4,4,1,2,2,27,4,20,Female,Yes
+PID047,CS3540,75% accuracy,4,4,2,3,5,4,3,3,28,4,21,Male,No
+PID048,CS3540,50% accuracy,2,4,1,1,1,4,2,2,17,2,22,Male,Yes
+PID049,CS3540,50% accuracy,4,4,4,3,4,4,3,3,29,4,20,Male,Yes
+PID050,Alexander Skipitaris ,No accuracy,5,4,4,3,5,2,2,3,28,5,22,Male,No
+PID051,Alexander Skipitaris ,No accuracy,4,4,2,4,2,4,2,2,24,4,52,Female,Yes
+PID052,Alexander Skipitaris ,No accuracy,5,4,5,5,5,1,3,3,31,5,22,Male,No
+PID053,Alexander Skipitaris ,No accuracy,5,5,5,4,5,3,4,2,33,4,20,Male,No
+PID054,Alexander Skipitaris ,No accuracy,3,2,4,5,5,1,1,4,25,4,20,Male,No
+PID055,Alexander Skipitaris ,No accuracy,4,4,4,3,4,3,4,4,30,4,52,Male,No
+PID056,Alexander Skipitaris ,No accuracy,4,4,4,4,4,1,3,2,26,3,47,Female,No
+PID057,Alexander Skipitaris ,No accuracy,4,3,3,4,4,4,3,3,28,3,49,Female,No
+PID058,Alexander Skipitaris ,No accuracy,4,4,2,4,4,2,1,4,25,4,48,Female,No
+PID059,Alexander Skipitaris ,No accuracy,4,4,4,3,4,2,3,3,27,4,20,Male,Yes
+PID060,Prisca Joseph ,No accuracy,5,3,3,3,3,3,3,3,26,3,20,Female,No
+PID061,Prisca Joseph ,No accuracy,4,3,3,3,5,3,2,1,24,4,20,Male,No
+PID062,Prisca Joseph ,No accuracy,5,3,5,5,5,1,3,3,30,4,21,Female,No
+PID063,Prisca Joseph ,No accuracy,5,3,4,4,3,4,5,4,32,4,20,Female,No
+PID064,Grace Mayer,75% accuracy,5,5,4,4,5,4,4,3,34,4,54,Female,No
+PID065,Grace Mayer,75% accuracy,5,5,4,4,5,1,4,4,32,4,53,Male,No
+PID066,Ashraf Bade,No accuracy,4,5,3,3,4,2,3,2,26,4,20,Female,No
+PID067,Ashraf Bade,No accuracy,2,3,2,1,5,4,3,2,22,3,48,Female,No
+PID068,Ashraf Bade,No accuracy,2,5,2,5,5,3,4,5,31,5,45,Male,No
+PID069,Ashraf Bade,No accuracy,5,5,5,5,5,1,5,5,36,5,54,Male,No
+PID070,CS3540,95% accuracy,4,4,4,3,4,3,3,4,29,4,23,Male,No
+PID071,Ashraf Bade,No accuracy,1,1,1,1,1,1,2,2,10,5,21,Female,Yes
+PID072,Grace Mayer ,75% accuracy,4,4,2,3,4,4,2,3,26,2,20,Female,No
+PID073,Grace Mayer,50% accuracy,4,5,3,3,5,3,5,3,31,4,26,Female,No
+PID074,Grace Mayer,50% accuracy,4,4,3,3,4,4,2,3,27,4,20,Female,No
+PID075,Grace Mayer,75% accuracy,5,4,1,4,4,3,4,3,28,4,19,Male,No
+PID076,Grace Mayer,50% accuracy,4,4,4,4,4,2,2,4,28,5,24,Female,No
+PID077,Grace Mayer ,75% accuracy,5,4,4,3,4,1,2,3,26,4,20,Male,No
+PID078,Grace Mayer,95% accuracy,5,4,4,5,5,4,4,4,35,4,22,Female,No
+PID079,Grace Mayer,95% accuracy,2,3,2,4,5,4,4,5,29,4,77,Female,No
+PID080,Prisca Joseph,No accuracy,5,5,4,5,5,2,4,5,35,4,31,Female,No
+PID081,Prisca Joseph,No accuracy,4,4,4,3,4,4,3,3,29,4,20,Male,No
+PID082,Prisca Joseph,No accuracy,4,4,4,4,5,3,1,3,28,3,19,Male,No
+PID083,Prisca Joseph ,No accuracy,5,5,4,4,5,3,2,3,31,3,22,Male,No
+PID084,Prisca Joseph ,No accuracy,5,5,4,4,4,2,2,3,29,4,20,Male,No
+PID085,Prisca Joseph ,No accuracy,5,5,5,4,5,4,4,4,36,4,20,Male,No
+,,,,,,,,,,,,,,,
